@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://mullan.au",
-    "contentApiKey": "1312773e6fafea885449e2350f"
+    "apiUrl": "https://royston.au",
+    "contentApiKey": "d4479c44f28ee7e11838defd8b"
   },
   "production": {
-    "apiUrl": "https://mullan.au",
-    "contentApiKey": "1312773e6fafea885449e2350f"
+    "apiUrl": "https://royston.au",
+    "contentApiKey": "d4479c44f28ee7e11838defd8b"
   }
 }
